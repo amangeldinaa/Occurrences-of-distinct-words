@@ -28,8 +28,11 @@ This program recursively traverses a directory tree and constructs an index of a
 ## Example Output
 
 Word: "example"
+
 Occurrences: 3
+
 File: /path/to/file.txt, Line: 5, Column: 12
+
 File: /path/to/another-file.txt, Line: 10, Column: 8
 
 
